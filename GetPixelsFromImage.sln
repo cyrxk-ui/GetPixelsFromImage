@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPixelsFromImage", "GetPixelsFromImage\GetPixelsFromImage.csproj", "{D83C14E4-AE36-4078-89E7-871AADD9172B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D83C14E4-AE36-4078-89E7-871AADD9172B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83C14E4-AE36-4078-89E7-871AADD9172B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83C14E4-AE36-4078-89E7-871AADD9172B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83C14E4-AE36-4078-89E7-871AADD9172B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08988B94-5B13-43A2-B8FD-2101CC5A63D8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Cyril\Source\Repos\GetPixelsFromImage\GetPixelsFromImage\obj\Debug\GetPixelsFromImage.csprojResolveAssemblyReference.cache
+C:\Users\Cyril\Source\Repos\GetPixelsFromImage\GetPixelsFromImage\obj\Debug\GetPixelsFromImage.csproj.CoreCompileInputs.cache
+C:\Users\Cyril\Source\Repos\GetPixelsFromImage\GetPixelsFromImage\bin\Debug\GetPixelsFromImage.dll
+C:\Users\Cyril\Source\Repos\GetPixelsFromImage\GetPixelsFromImage\bin\Debug\GetPixelsFromImage.pdb
+C:\Users\Cyril\Source\Repos\GetPixelsFromImage\GetPixelsFromImage\obj\Debug\GetPixelsFromImage.dll
+C:\Users\Cyril\Source\Repos\GetPixelsFromImage\GetPixelsFromImage\obj\Debug\GetPixelsFromImage.pdb
